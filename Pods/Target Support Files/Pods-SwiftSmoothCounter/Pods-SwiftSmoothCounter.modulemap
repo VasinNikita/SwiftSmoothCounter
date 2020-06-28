@@ -1,0 +1,6 @@
+framework module Pods_SwiftSmoothCounter {
+  umbrella header "Pods-SwiftSmoothCounter-umbrella.h"
+
+  export *
+  module * { export * }
+}

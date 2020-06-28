@@ -1,0 +1,6 @@
+framework module SwiftSmoothCounter {
+  umbrella header "SwiftSmoothCounter-umbrella.h"
+
+  export *
+  module * { export * }
+}
