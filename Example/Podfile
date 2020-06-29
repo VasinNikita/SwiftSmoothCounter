@@ -1,7 +1,0 @@
-use_frameworks!
-target 'SwiftSmoothCounter_Tests' do
-  pod 'SwiftSmoothCounter', :path => '../'
-  
-  pod 'Quick', '~> 1.2.0'
-    pod 'Nimble', '~> 7.0'
-end
